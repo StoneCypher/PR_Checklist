@@ -30,4 +30,8 @@ I invite friends and collagues to contribute as they see fit.  Forks and PRs are
 
 <br/><br/>
 # Testing specific
-1. 
+1. [ ] Has coverage stayed at-previous or better
+1. [ ] Is there genuinely adequate coverage of the testable new material
+    1. [ ] Are there negative cases
+    1. [ ] (Optional) Are there randomized cases
+1. [ ] Is the testset closing as-fast-scaled or faster than before
